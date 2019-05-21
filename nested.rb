@@ -40,7 +40,7 @@ def alan_kay_is_known_for
         }
      }
 
-		value_hash = programmer_hash[:alan_kay]
+		value_hash = programmer_hash[:alan_kay][:known_for]
 	 	return value_hash
 end
 
