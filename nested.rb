@@ -61,7 +61,7 @@ def dennis_ritchies_language
         }
      }
 
-	value_hash = programmer_hash[:dennis_ritchie][:languages].split
+	value_hash = programmer_hash[:dennis_ritchie][:languages].join(" ")
 	return value_hash
 end
 
