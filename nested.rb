@@ -16,6 +16,7 @@ def hopper
         }
      }
 
+	value_hash = "programmer_hash"
 
 end
 
