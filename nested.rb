@@ -113,7 +113,7 @@ def changing_alan
      }
      #change what Alan Kay is :known_for to the value of the alans_new_info variable.
      alans_new_info = "GUI"
-		 value_hash = programmer_hash[:alan_kay][:languages].join(" ")
+		 value_hash = programmer_hash[:alan_kay][:known_for]
 	 	 return value_hash
 
 
