@@ -61,7 +61,7 @@ def dennis_ritchies_language
         }
      }
 
-	value_hash = programmer_hash[:alan_kay][:known_for]
+	value_hash = programmer_hash[:dennis_ritchie][:known_for]["Unix"]
 	return value_hash
 end
 
