@@ -60,6 +60,9 @@ def dennis_ritchies_language
           :languages => ["C"]
         }
      }
+
+	value_hash = programmer_hash[:alan_kay][:known_for]
+	 return value_hash
 end
 
 def adding_matz
