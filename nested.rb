@@ -61,7 +61,7 @@ def dennis_ritchies_language
         }
      }
 
-	value_hash = programmer_hash[:dennis_ritchie][:languages]["C"]
+	value_hash = programmer_hash[:dennis_ritchie][:languages].split
 	return value_hash
 end
 
