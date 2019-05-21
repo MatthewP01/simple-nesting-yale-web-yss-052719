@@ -135,5 +135,5 @@ def adding_to_dennis
         }
      }
 	init_hash = programmer_hash[:dennis_ritchie]
-	init_hash[:languages] =
+	init_hash[:languages] = "Assembly"
 end
